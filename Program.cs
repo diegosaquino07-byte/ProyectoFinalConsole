@@ -36,7 +36,7 @@ namespace ProyectoFinalConsole
                         InsertarContacto();
                         break;
                     case 2:
-                    //EliminarContacto(); aqui va el metodo para eliminar un contacto quitan el comentario y ponen el metodo que hicieron
+                    //EliminarContacto(); 
                     case 3:
                         MostrarDatosdeContactos();
                         break;
